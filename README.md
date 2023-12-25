@@ -1,2 +1,2 @@
 DESCRIPTION
-This repository includes an SQL query to get the second highest amount for 
+This repository includes an SQL query to get the second highest amount for document types
